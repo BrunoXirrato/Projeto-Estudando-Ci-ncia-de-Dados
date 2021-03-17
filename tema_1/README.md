@@ -23,7 +23,7 @@ Nesta arquivo irei explicar com mais detalhes os conceitos Min-Max, Standard e Q
 
 - Abaixo temos a imagem que mostra como é calculada a normalização Min-Max:
 
-![1](https://github.com/BrunoXirrato/Projeto-Estudando-Ci-ncia-de-Dados/blob/main/tema_1/1.png)
+![3](https://github.com/BrunoXirrato/Projeto-Estudando-Ci-ncia-de-Dados/blob/main/tema_1/3.png)
 
 - X é o valor inicial do vetor, Xmin é o menor valor deste vetor, Xmax é o valor Máximo do vetor e Xchanged é o valor X normalizado.​
 
@@ -33,7 +33,7 @@ Nesta arquivo irei explicar com mais detalhes os conceitos Min-Max, Standard e Q
 
 - Abaixo temos a imagem que mostra como é calculada a normalização Min-Max:
 
-(Colocar IMG)
+![1](https://github.com/BrunoXirrato/Projeto-Estudando-Ci-ncia-de-Dados/blob/main/tema_1/1.png)
 
 - X é o valor inicial do vetor, “mih” é a media deste vetor e “roh” o desvio padrão
 
@@ -43,6 +43,6 @@ Nesta arquivo irei explicar com mais detalhes os conceitos Min-Max, Standard e Q
 
 - O conceito matemático de QuantileTransformer é o seguinte:
 
-(COLOCAR IMG)
+![2](https://github.com/BrunoXirrato/Projeto-Estudando-Ci-ncia-de-Dados/blob/main/tema_1/2.png)
 
 - X é o valor inicial do vetor,u é a media deste vetor e Q2 é o segundo quartil.
