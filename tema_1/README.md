@@ -19,13 +19,13 @@ Temos diversos tipos de bibliotecas do Python que são utilizadas para normaliza
 Nesta arquivo irei explicar com mais detalhes os conceitos Min-Max, Standard e Quantile Transformer.
 
 ### Min-Max <h3>
-A normalização de Min-Máx visa manter os valores do seu dataset entre 0,0 e 1,0 ou -1,0 e 1,0.
+- A normalização de Min-Máx visa manter os valores do seu dataset entre 0,0 e 1,0 ou -1,0 e 1,0.
 
 Abaixo temos a imagem que mostra como é calculada a normalização:
 
 (Colocar IMG)
 
-X é o valor inicial do vetor, Xmin é o menor valor deste vetor, Xmax é o valor Máximo do vetor e Xchanged é o valor X normalizado.​
+- X é o valor inicial do vetor, Xmin é o menor valor deste vetor, Xmax é o valor Máximo do vetor e Xchanged é o valor X normalizado.​
 
 ### Standard <h3>
 
