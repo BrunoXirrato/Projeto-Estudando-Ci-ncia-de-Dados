@@ -23,7 +23,7 @@ Nesta arquivo irei explicar com mais detalhes os conceitos Min-Max, Standard e Q
 
 - Abaixo temos a imagem que mostra como é calculada a normalização Min-Max:
 
-(Colocar IMG)
+![1](https://github.com/BrunoXirrato/Projeto-Estudando-Ci-ncia-de-Dados/blob/main/tema_1/1.png)
 
 - X é o valor inicial do vetor, Xmin é o menor valor deste vetor, Xmax é o valor Máximo do vetor e Xchanged é o valor X normalizado.​
 
