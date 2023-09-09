@@ -2,8 +2,7 @@
 
 # **Tema 3: Redução de Dimensionalidade**
 
-- **O que é:** .
-- **Quando utilizar:**  .
+- **O que é e quando utilizar:** A Redução de Dimensionalidade é um conceito que visa reduzir a quantidade de varíaveis do dataset afim de garantir uma melhor performance dos modelos estatisticos.
 
 ## Conceitos para redução de dimensionalidade <h2>
 
